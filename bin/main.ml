@@ -1,3 +1,5 @@
+include Forced_errors
+
 (* break uniqueness *)
 (* let dude (x : int ref @ unique) (y : int ref @ unique) = *)
 (*   () *)
